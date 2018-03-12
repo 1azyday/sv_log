@@ -1,5 +1,6 @@
 # 自定义文件
 cached/
+*.xlsx
 
 
 # Byte-compiled / optimized / DLL files
